@@ -20,12 +20,4 @@ export default {
     require('tailwindcss-motion'),
     require('tailwindcss-textshadow'),
   ],
-  safelist: [
-    {
-      pattern: /bg-\[\#[0-9a-fA-F]{6}\]/, // Dynamiczne klasy jak bg-[#333333]
-    },
-    {
-      pattern: /text-\[\#[0-9a-fA-F]{6}\]/, // Dynamiczne klasy jak text-[#ffffff]
-    },
-  ],
 };
