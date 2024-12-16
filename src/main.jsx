@@ -24,7 +24,7 @@ function Main() {
   }, []);
 
   return (
-    <Router>
+    <Router basename="/credit_card_website">
       <Routes>
         <Route
           path="/"
