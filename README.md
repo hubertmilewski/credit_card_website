@@ -9,6 +9,7 @@ A modern, interactive website that showcases customizable credit card designs. U
 - **Smooth Animations**: Interactive animations powered by AOS (Animate On Scroll).
 - **React Router**: Seamlessly navigate between sections using React Router.
 - **GitHub Pages Deployment**: The app is deployed on GitHub Pages for easy access and sharing.
+- **Download Options**: Users can download their customized card designs as image files.
 
 ## Technologies Used
 
@@ -16,4 +17,5 @@ A modern, interactive website that showcases customizable credit card designs. U
 - **Vite**: A fast build tool that improves development and build performance.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **AOS**: A library for adding scroll animations to the website.
+-**html2canvas**: Library to download the image.
 - **GitHub Pages**: For deploying and hosting the website.
