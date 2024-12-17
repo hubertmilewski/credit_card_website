@@ -17,5 +17,5 @@ A modern, interactive website that showcases customizable credit card designs. U
 - **Vite**: A fast build tool that improves development and build performance.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **AOS**: A library for adding scroll animations to the website.
--**html2canvas**: Library to download the image.
+- **html2canvas**: Library to download the image.
 - **GitHub Pages**: For deploying and hosting the website.
